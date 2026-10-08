@@ -1,8 +1,8 @@
 {
     "schema_version": 1,
     "app_id": "megamax-printer-pairing",
-    "version": "1.8.11.3",
-    "download_url": "https://github.com/billyrey12/konica-portable-updates/releases/download/v1.8.11.3/Megamax.Printer.Pairing.exe",
-    "sha256": "1faffde8e7ef396b58d008b26e72799fb72c7700f46873995cc54daafaf1c3c5",
+    "version": "1.8.11.4",
+    "download_url": "https://github.com/billyrey12/konica-portable-updates/releases/download/v1.8.11.4/Megamax.Printer.Pairing.exe",
+    "sha256": "448d3139c600f8f6ed486f9c6b6522d2fe8ce6b99b5d955a76901e5005bfa563",
     "size": 83456
 }
